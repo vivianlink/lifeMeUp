@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Lifemeup</string>
+    <string name="start_button">START</string>
+    <string name="login_button">LOGIN</string>
+    <string name="done_button">I am done!</string>
+    <string name="select_look">Now, select your look!</string>
+    <string name="enter_username">enter your username here</string>
+    <string name="enter_password">enter password</string>
+    <string name="create_account">No account? Register here!</string>
+    <string name="welcome_text">Congratulations, you are hired! What is your name?</string>
+</resources>
