@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void clickLogin(View view){
-        Intent intent = new Intent(this, StartPage.class);
+        Intent intent = new Intent(this, Login.class);
         startActivity(intent);
     }
 }
